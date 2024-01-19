@@ -43,10 +43,10 @@ Movie Store is an movie website specializing in movies and webseries. Whether yo
 
 
 
-<!-- COMMENT -->## ER Diagram
+<!-- ## ER Diagram -->
 
-<!-- COMMENT --> <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/ER%20diagram.png" alt="Payment Success Page" width="100%" height="550">
-
+<!-- <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/ER%20diagram.png" alt="Payment Success Page" width="100%" height="550">
+ --> 
 
 
 
